@@ -25,3 +25,6 @@ App
 - "подтянуть" зависимости командой `npm install` или `yarn`
 - выполнить команду `npm start` или `yarn start` для запуска сервера
 - приложение доступно по `http://localhost:3000/`
+
+## Деплой:
+https://react-typescript-task-ac446.web.app/
